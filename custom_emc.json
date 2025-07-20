@@ -3731,6 +3731,226 @@
     {
       "item": "alexscaves:pure_darkness",
       "emc": 5678
+    },
+    {
+      "item": "alexscaves:sea_staff{Damage:0}",
+      "emc": 19345
+    },
+    {
+      "item": "alexscaves:glow_ink_bomb",
+      "emc": 88
+    },
+    {
+      "item": "aquamirae:shell_horn",
+      "emc": 23656
+    },
+    {
+      "item": "aquamirae:treasure_pouch",
+      "emc": 22122
+    },
+    {
+      "item": "aquamirae:pirate_pouch",
+      "emc": 113
+    },
+    {
+      "item": "rocks:starfish{variation:\"pink\"}",
+      "emc": 8
+    },
+    {
+      "item": "aquamirae:fin",
+      "emc": 2048
+    },
+    {
+      "item": "aquamirae:elodea",
+      "emc": 8
+    },
+    {
+      "item": "aquamirae:esca",
+      "emc": 16
+    },
+    {
+      "item": "aquamirae:anglers_fang",
+      "emc": 4096
+    },
+    {
+      "item": "aquamirae:ship_graveyard_echo",
+      "emc": 16567
+    },
+    {
+      "item": "aquamirae:rune_of_the_storm",
+      "emc": 26798
+    },
+    {
+      "item": "born_in_chaos_v1:krampuss_bag",
+      "emc": 67572
+    },
+    {
+      "item": "create:precision_mechanism",
+      "emc": 2248
+    },
+    {
+      "item": "regions_unexplored:peat_grass_block",
+      "emc": 2
+    },
+    {
+      "item": "regions_unexplored:stone_bud",
+      "emc": 1
+    },
+    {
+      "item": "alexscaves:ortholance",
+      "emc": 21356
+    },
+    {
+      "item": "alexscaves:diving_leggings{Damage:0}",
+      "emc": 896
+    },
+    {
+      "item": "alexscaves:diving_helmet",
+      "emc": 656
+    },
+    {
+      "item": "rocks:soul_soil_splitter",
+      "emc": 1
+    },
+    {
+      "item": "regions_unexplored:mycotoxic_grass",
+      "emc": 1
+    },
+    {
+      "item": "regions_unexplored:mycotoxic_daisy",
+      "emc": 16
+    },
+    {
+      "item": "regions_unexplored:cobalt_roots",
+      "emc": 1
+    },
+    {
+      "item": "regions_unexplored:tall_cobalt_earlight",
+      "emc": 16
+    },
+    {
+      "item": "regions_unexplored:hanging_earlight_fruit",
+      "emc": 64
+    },
+    {
+      "item": "regions_unexplored:cobalt_obsidian",
+      "emc": 768
+    },
+    {
+      "item": "regions_unexplored:cobalt_nylium",
+      "emc": 4
+    },
+    {
+      "item": "regions_unexplored:mycotoxic_mushrooms",
+      "emc": 32
+    },
+    {
+      "item": "regions_unexplored:prismoss_sprout",
+      "emc": 1
+    },
+    {
+      "item": "born_in_chaos_v1:tombstone_petasi",
+      "emc": 16384
+    },
+    {
+      "item": "projectred_exploration:peridot_ore",
+      "emc": 2048
+    },
+    {
+      "item": "mekanism:tin_ore",
+      "emc": 256
+    },
+    {
+      "item": "creatingspace:deepslate_nickel_ore",
+      "emc": 1024
+    },
+    {
+      "item": "born_in_chaos_v1:spider_mandible",
+      "emc": 656
+    },
+    {
+      "item": "born_in_chaos_v1:damned_demomans_hat_helmet{Damage:0}",
+      "emc": 334
+    },
+    {
+      "item": "tconstruct:sky_sky_slime_grass",
+      "emc": 514
+    },
+    {
+      "item": "thermal:niter",
+      "emc": 364
+    },
+    {
+      "item": "vintageimprovements:sulfur",
+      "emc": 8
+    },
+    {
+      "item": "thermal:sulfur",
+      "emc": 96
+    },
+    {
+      "item": "naturalist:venison",
+      "emc": 64
+    },
+    {
+      "item": "crusty_chunks:raw_lithium",
+      "emc": 2048
+    },
+    {
+      "item": "thermal:tar",
+      "emc": 64
+    },
+    {
+      "item": "thermal:bitumen",
+      "emc": 128
+    },
+    {
+      "item": "thermal:oil_sand",
+      "emc": 234
+    },
+    {
+      "item": "thermal:apatite",
+      "emc": 4
+    },
+    {
+      "item": "mcore:raw_titanium",
+      "emc": 2048
+    },
+    {
+      "item": "thermal:radish_seeds",
+      "emc": 16
+    },
+    {
+      "item": "apotheosis:gem{affix_data:{rarity:\"apotheosis:ancient\"},gem:\"apotheosis:core/warlord\"}",
+      "emc": 886144
+    },
+    {
+      "item": "natures_spirit:pink_sand",
+      "emc": 4
+    },
+    {
+      "item": "thermal:blitz_rod",
+      "emc": 1536
+    },
+    {
+      "item": "apotheosis:gem{affix_data:{rarity:\"apotheosis:ancient\"},gem:\"apotheosis:core/slipstream\"}",
+      "emc": 855168
+    },
+    {
+      "item": "apotheosis:gem{affix_data:{rarity:\"apotheosis:ancient\"},gem:\"apotheosis:overworld/royalty\"}",
+      "emc": 756160
+    },
+    {
+      "item": "thermal:amaranth_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:spinach_seeds",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:green_dye",
+      "emc": 8
     }
   ]
 }
